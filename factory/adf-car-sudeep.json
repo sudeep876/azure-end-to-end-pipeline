@@ -1,0 +1,9 @@
+{
+	"name": "adf-car-sudeep",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ebf55bc0-2942-4d4c-91e1-5ed3269c1a5e",
+		"tenantId": "871786fd-61a1-4650-9732-068271f76ea8"
+	}
+}
